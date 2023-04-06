@@ -1,0 +1,13 @@
+name: CustomDrops
+version: 1.12.0
+load: POSTWORLD
+softdepend: [Multiverse-Core, UltraRegions, FabledSkyblock, BentoBox]
+author: cubito_verde
+main: com.gmail.cubitverde.CustomDropsRevamped.CustomDropsRevamped
+prefix: CustomDrops
+api-version: 1.16
+
+commands:
+  customdrops:
+    permission: customdrops.admin
+    aliases: cdrops
